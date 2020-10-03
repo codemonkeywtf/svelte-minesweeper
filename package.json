@@ -1,6 +1,6 @@
 {
-  "name": "TODO",
-  "description": "TODO",
+  "name": "svelte-minesweeper",
+  "description": "classic minesweeper game",
   "version": "0.0.1",
   "scripts": {
     "dev": "sapper dev",
