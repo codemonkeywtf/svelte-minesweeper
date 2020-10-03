@@ -1,9 +1,5 @@
 <script lang="ts">
-  import SmileySunglasses from '../icons/smiley-sunglasses.svelte'
-  import SmileyDead from '../icons/smiley-dead.svelte'
-  import SmileyLaugh from '../icons/smiley-laugh.svelte'
-  import Github from '../icons/github.svelte'
-  import Bug from '../icons/bug.svelte'
+  import MinesweeperContainer from '../components/MinesweeperContainer.svelte';
 </script>
 
 <style>
@@ -46,8 +42,4 @@
   <title>Svelte Minesweeper</title>
 </svelte:head>
 
-<SmileySunglasses />
-<Bug />
-<SmileyDead />
-<SmileyLaugh />
-<Github />
+<MinesweeperContainer />
